@@ -1,5 +1,13 @@
 header {
    background-color: pink;
+   color:aqua;
 }
 
-    
+body {
+   background-color: pink;
+}
+
+h1 {
+   font-size: 20 px;
+   color:aqua;
+}
